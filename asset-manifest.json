@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Kiran-sawa/OJT/static/css/main.a778e587.css",
+    "main.js": "/Kiran-sawa/OJT/static/js/main.a9fd898a.js",
+    "static/js/592.7f72a991.chunk.js": "/Kiran-sawa/OJT/static/js/592.7f72a991.chunk.js",
+    "static/media/raj.png": "/Kiran-sawa/OJT/static/media/raj.583ade8aafaa82228e2e.png",
+    "index.html": "/Kiran-sawa/OJT/index.html",
+    "main.a778e587.css.map": "/Kiran-sawa/OJT/static/css/main.a778e587.css.map",
+    "main.a9fd898a.js.map": "/Kiran-sawa/OJT/static/js/main.a9fd898a.js.map",
+    "592.7f72a991.chunk.js.map": "/Kiran-sawa/OJT/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a778e587.css",
+    "static/js/main.a9fd898a.js"
+  ]
+}
